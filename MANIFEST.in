@@ -1,0 +1,3 @@
+include esrgan/*.*
+include VERSION
+include requirements.txt

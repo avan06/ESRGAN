@@ -1,3 +1,9 @@
+# ignored folders
+.vs
+
+# ignored files
+version.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
